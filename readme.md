@@ -6,4 +6,4 @@
 
 ## Condition After E-Hack
 
-![alt text](additionals/damn.jpeg)
+![alt text](Untitled.jpeg)
